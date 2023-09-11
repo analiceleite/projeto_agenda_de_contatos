@@ -12,4 +12,4 @@
 </ul>
 
 <h3> Você pode acessar o projeto por meio do link: https://analiceleite.github.io/projeto_agenda_de_contatos/ </h3>
-<img src= "https://img.shields.io/badge/teste1-teste2-green"/>
+<img src= "https://img.shields.io/badge/Status-Completed-green"/>
